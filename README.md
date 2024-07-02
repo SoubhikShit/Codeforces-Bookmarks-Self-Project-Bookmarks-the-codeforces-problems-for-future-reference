@@ -7,6 +7,7 @@ Chrome API
 Tools
 Google Chrome Browser
 IDE or Text Editor of Your Choice
+
 Setup Instructions
 For Developers
 1.Make a clone of this project, unzipped.
